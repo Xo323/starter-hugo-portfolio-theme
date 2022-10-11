@@ -4,6 +4,7 @@ headless: true
 weight: 10
 author: admin
 widget_id: Recent-posts
+title: ythumblog
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
